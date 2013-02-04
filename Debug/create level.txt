@@ -1,0 +1,30 @@
+Corners:
+'~' = double top left
+'`' = double top right
+'1' = double bottom left
+'!' = double bottom right
+'2' = single top left
+'@' = single top right
+'4' = single bottom left
+'$' = single bottom right
+'5' = square top left
+'%' = square top right
+'6' = square bottom left
+'^' = square bottom right
+
+Horizontal:
+'=' = double horizontal line
+'-' = single horizontal line
+
+Vertical:
+'#' = double vertical line
+'|' = single vertical line
+
+Dots:
+'.' = normal dot
+'o' = big dot
+
+Other:
+' ' = blank
+'00' = Pacman
+'t' = teleporter *MAXIMUM 2*
